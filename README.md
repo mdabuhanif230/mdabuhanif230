@@ -9,7 +9,7 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 - 🌱 I’m currently learning ***React***
 - 👯 I’m looking to collaborate on **[open-source projects/ideas]**
 - 💬 Ask me about ***HTML5, CSS, JavaScript, TypScript,React***
-- 📫 How to reach me: **seman2.1206@proton.me**
+- 📫 How to reach me: **mhabuhanif230@gmail.com**
 - ⚡ Fun fact: ***Life has no undo button and death has no restart!***
 
 ---
@@ -42,7 +42,7 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 
 ---
 
-### [EggSell Shop](https://github.com/seman2-Dev/eggsell_shop)
+### [EggSell Shop](https://github.com/mdabuhanif230/eggsell_shop)
 
 **Description:** A modern static egg-selling website that allows customers to view live stock, select egg quantities, calculate prices, provide delivery information, choose payment methods, and place orders directly through WhatsApp. Includes an interactive 3D egg display and an admin panel for stock and sales management.
 
@@ -82,7 +82,7 @@ I'm a passionate ***Learner*** with a strong interest in ***Software Development
 ## 🎓 Education
 
 **Diploma in Computer Science & Technology**  
-[Rajshahi Govt. Polytechnical Institute](https://university.edu) — *2023 – 2027*  
+[Sirajganj Govt. Polytechnical Institute](https://university.edu) — *2023 – 2027*  
 CGPA: 3.../4.0  
 Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Distributed Systems.
 
@@ -90,10 +90,10 @@ Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Eng
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsemantobolbol)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](seman2.1206@proton.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( )
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mhabuhanif230gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)]([https://yourportfolio.com](https://github.com/seman2-Dev/readme.portfolio/new/main?filename=README.md))
 
 ---
 
-⭐️ From [seman2-Dev](https://github.com/seman2-Dev)
+⭐️ From [mdabuhanid](https://github.com/mdabuhanif230)
