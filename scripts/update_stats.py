@@ -32,13 +32,13 @@ def main():
             languages[repo['language']] = languages.get(repo['language'], 0) + 1
     top = sorted(languages.items(), key=lambda item: (-item[1], item[0]))[:5]
     values = [('PUBLIC REPOS', user['public_repos']), ('FOLLOWERS', user['followers']), ('STARS EARNED', sum(r['stargazers_count'] for r in original)), ('ORIGINAL REPOS', len(original))]
-    svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="275" viewBox="0 0 1100 275"><title>Md Abu Hanif public GitHub statistics</title><rect width="1100" height="275" rx="22" fill="#0d1626"/><rect x="1" y="1" width="1098" height="273" rx="22" fill="none" stroke="#203752"/><g font-family="DejaVu Sans,Arial,sans-serif"><text x="35" y="42" fill="#58d6ff" font-size="21" font-weight="bold">GITHUB / LIVE SNAPSHOT</text>']
+    svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="275" viewBox="0 0 1100 275"><title>Md Abu Hanif public GitHub statistics</title><rect width="1100" height="275" rx="22" fill="#141a2b"/><rect x="1" y="1" width="1098" height="273" rx="22" fill="none" stroke="#3b4560"/><g font-family="DejaVu Sans,Arial,sans-serif"><text x="35" y="42" fill="#8fffd2" font-size="21" font-weight="bold">GITHUB / LIVE SNAPSHOT</text>']
     for index, (label, value) in enumerate(values):
         x = 35 + index * 270
-        svg.append(f'<text x="{x}" y="108" fill="#f3f8ff" font-size="40" font-weight="bold">{value}</text><text x="{x}" y="139" fill="#90a9c5" font-size="13">{label}</text>')
+        svg.append(f'<text x="{x}" y="108" fill="#f5f4fa" font-size="40" font-weight="bold">{value}</text><text x="{x}" y="139" fill="#a1afc5" font-size="13">{label}</text>')
     summary = '  /  '.join(f'{name}: {count}' for name, count in top) or 'No repository languages yet'
-    svg.append(f'<text x="35" y="192" fill="#d2e5fa" font-size="14">Primary language by original public repository: {escape(summary)}</text>')
-    svg.append(f'<text x="35" y="236" fill="#90a9c5" font-size="12">Updated {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")} · Public data only · Fork stars excluded</text></g></svg>')
+    svg.append(f'<text x="35" y="192" fill="#c5b5ff" font-size="14">Primary language by original public repository: {escape(summary)}</text>')
+    svg.append(f'<text x="35" y="236" fill="#a1afc5" font-size="12">Updated {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")} · Public data only · Fork stars excluded</text></g></svg>')
     (ROOT / 'assets' / 'github-stats.svg').write_text(''.join(svg), encoding='utf-8')
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/banner.svg" width="100%" alt="Md Abu Hanif — Full Stack Web Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1100&amp;color=58D6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Exploring+AI-Assisted+Engineering;Learning+Every+Day%2C+One+Project+at+a+Time" width="100%" alt="Building web apps and learning every day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1100&amp;color=8FFFD2&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+Full+Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Exploring+AI-Assisted+Engineering;Learning+Every+Day%2C+One+Project+at+a+Time" width="100%" alt="Building web apps and learning every day" />
 
 [About](#about-me) · [Skills](#tech-stack) · [Projects](#featured-projects) · [Statistics](#github-statistics) · [Contact](#connect-with-me)
 
@@ -10,7 +10,9 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## About Me
+<a id="about-me"></a>
+
+## 01 — About Me
 
 Hi, I’m **Md Abu Hanif**, a **Full Stack Web Developer** based in **Sirajganj, Bangladesh**. I enjoy turning ideas into responsive, practical web applications and strengthening my skills through hands-on projects.
 
@@ -25,7 +27,9 @@ Hi, I’m **Md Abu Hanif**, a **Full Stack Web Developer** based in **Sirajganj,
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Connect With Me
+<a id="connect-with-me"></a>
+
+## 02 — Connect With Me
 
 <a href="mailto:mhabuhanif230@gmail.com"><img src="assets/gmail.svg" width="150" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mdabuhanif230"><img src="assets/linkedin.svg" width="150" alt="LinkedIn" /></a>
@@ -37,7 +41,9 @@ Hi, I’m **Md Abu Hanif**, a **Full Stack Web Developer** based in **Sirajganj,
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Tech Stack
+<a id="tech-stack"></a>
+
+## 03 — Tech Stack
 
 <img src="assets/stack.svg" width="100%" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, MongoDB, Mongoose, Better Auth, Git and GitHub" />
 
@@ -53,7 +59,14 @@ Hi, I’m **Md Abu Hanif**, a **Full Stack Web Developer** based in **Sirajganj,
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Featured Projects
+<a id="featured-projects"></a>
+
+## 04 — Featured Projects
+
+<p align="center">
+<a href="https://bazar-dor-mh.vercel.app/"><img src="assets/bazar-dor.svg" width="49%" alt="Bazar Dor — explore the live market web application" /></a>
+<a href="https://fit-log-ecru-three.vercel.app/"><img src="assets/fitlog.svg" width="49%" alt="FitLog — explore the live workout discovery app" /></a>
+</p>
 
 | Project | Overview | Live Demo |
 |:--|:--|:--|
@@ -64,7 +77,9 @@ Hi, I’m **Md Abu Hanif**, a **Full Stack Web Developer** based in **Sirajganj,
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## GitHub Statistics
+<a id="github-statistics"></a>
+
+## 05 — GitHub Statistics
 
 <img src="assets/github-stats.svg" width="100%" alt="Public repository count, followers, stars, and primary repository languages" />
 
